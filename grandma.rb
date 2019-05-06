@@ -1,4 +1,5 @@
-def speak_to_grandma()
+def speak_to_grandma(phrase)
+  phrase
   end
   # Write a speak_to_grandma method.
 
